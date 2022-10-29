@@ -3,7 +3,7 @@ import os.path
 from PIL import Image
 
 page_count = 1
-page_path = "page-{}.png"
+page_path = "page_{}.png"
 panel_count = 1
 panel_path = "final/{}-{}.png"
 panel_size = {
